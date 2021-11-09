@@ -1,5 +1,9 @@
 # Software-Engineering-Final-Project
 
+
+To run the program use testable_v2.py
+
+
 # Summary
 
 The goal of this application is to provide useful information to retailers and shortening 
